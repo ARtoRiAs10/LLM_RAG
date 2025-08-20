@@ -1,0 +1,29 @@
+# FastAPI
+fastapi
+uvicorn[standard]
+python-multipart  # <--- ADD THIS LINE
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Pydantic & Config
+pydantic
+pydantic-settings
+
+# LangChain & Vector DB
+langchain
+langchain-community
+langchain-qdrant
+qdrant-client
+pypdf
+sentence-transformers
+
+# Testing
+pytest
+httpx
+pytest-cov
+
+# Other
+python-dotenv
